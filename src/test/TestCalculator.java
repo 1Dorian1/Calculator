@@ -22,7 +22,7 @@ public class TestCalculator {
         System.out.println(a.factorial(4));
 
 
-        System.out.println(ex.evaluate("2+5"));
+        System.out.println(ex.evaluate("2-5"));
         System.out.println(ex.evaluate("4-3"));
         System.out.println(ex.evaluate("2+3+4"));
         System.out.println(ex.evaluate("2*3-4"));
