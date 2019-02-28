@@ -26,5 +26,6 @@ public class TestCalculator {
         System.out.println(ex.evaluate("4-3"));
         System.out.println(ex.evaluate("2+3+4"));
         System.out.println(ex.evaluate("2*3-4"));
+
     }
 }
