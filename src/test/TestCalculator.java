@@ -1,9 +1,7 @@
-package Day6.home.endava.calculator.src.test;
-
-import Day6.home.endava.calculator.src.main.BasicCalculator;
-import Day6.home.endava.calculator.src.main.BasicCalculatorImpl;
-import Day6.home.endava.calculator.src.main.ExpertCalculator;
-import Day6.home.endava.calculator.src.main.ExpertCalculatorImpl;
+import main.BasicCalculator;
+import main.BasicCalculatorImpl;
+import main.ExpertCalculator;
+import main.ExpertCalculatorImpl;
 
 import java.text.DecimalFormat;
 
