@@ -1,5 +1,5 @@
 
-package Day6.home.endava.calculator;
+package Day6.home.endava.calculator.src.main;
 
 public class ExpertCalculatorImpl extends BasicCalculatorImpl implements ExpertCalculator {
     @Override
